@@ -16,3 +16,13 @@ run `yarn dev`
 run `npx drizzle-kit studio --config ./src/db/config.ts`
 
 open browser and go to `https://local.drizzle.studio/`
+
+
+### Record page
+
+open browser and go to `http://localhost:3000/?sessionId=4`
+sessionId is important as it maps userevents to a session;
+
+click on replay session to view it.
+
+
